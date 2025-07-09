@@ -64,18 +64,50 @@ Mi objetivo es construir un portafolio sólido que refleje tanto mis habilidades
 
 ## 🧰 Herramientas y tecnologías favoritas
 
-<h1 align="center">
 
-| Área                | Herramientas / Tecnologías                         |
-|---------------------|--------------------------------------------------|
-| Programación        | Python, C#, GDScript                              |
-| Motores de juego    | Unity, Godot                                     |
-| Diseño 3D           | Blender, Fusion 360                              |
-| Impresión 3D        | Cura, PrusaSlicer                                |
-| Sistemas operativos | Windows, Linux (Ubuntu, Debian)                  |
-| Automatización      | PowerShell, Bash                                 |
-| Control de versiones| Git, GitHub                                      |
-</h1>
+<div align="center">
+
+<!-- Puedes ajustar el ancho si quieres que sea más estrecha -->
+<table>
+  <thead>
+    <tr>
+      <th>Área</th>
+      <th>Herramientas / Tecnologías</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Programación</td>
+      <td>Python, C#, GDScript</td>
+    </tr>
+    <tr>
+      <td>Motores de juego</td>
+      <td>Unity, Godot</td>
+    </tr>
+    <tr>
+      <td>Diseño 3D</td>
+      <td>Blender, Fusion 360</td>
+    </tr>
+    <tr>
+      <td>Impresión 3D</td>
+      <td>Cura, PrusaSlicer</td>
+    </tr>
+    <tr>
+      <td>Sistemas operativos</td>
+      <td>Windows, Linux (Ubuntu, Debian)</td>
+    </tr>
+    <tr>
+      <td>Automatización</td>
+      <td>PowerShell, Bash</td>
+    </tr>
+    <tr>
+      <td>Control de versiones</td>
+      <td>Git, GitHub</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 <!-- ## 📫 Conecta conmigo
 
