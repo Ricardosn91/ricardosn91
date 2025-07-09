@@ -82,7 +82,8 @@ Mi objetivo es construir un portafolio sólido que refleje tanto mis habilidades
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat&logo=itch-io&logoColor=white)](https://tuusuario.itch.io)
--->
+
 ---
+-->
 
 <p align="center"> 💡 "Crear, aprender y compartir: la base para crecer en tecnología y creatividad." 💡 </p>
