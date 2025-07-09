@@ -1,8 +1,6 @@
 <h1 align="center">👋 ¡Hola! Soy TheStormRick</h1>
 
-<p align="center">
-  <img src="banner.png" alt="Banner TheStormRick" />
-</p>
+
 
 🛠️ Técnico en Administración de Sistemas, Mantenimiento Electrónica e Impresión 3D  
 🎮 Apasionado por el desarrollo de videojuegos y la programación  
