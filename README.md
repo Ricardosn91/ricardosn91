@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy TheStormRick
+<p align="center"># 👋 ¡Hola! Soy TheStormRick</p>
 
 <p align="center">
   <img src="banner.png" alt="Banner TheStormRick" />
