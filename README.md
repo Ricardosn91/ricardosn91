@@ -61,53 +61,18 @@ Actualmente estoy organizando y preparando una serie de proyectos para compartir
 Mi objetivo es construir un portafolio sólido que refleje tanto mis habilidades técnicas como creativas, y que pueda servir para colaborar y crecer dentro de la comunidad tecnológica y creativa.
 
 
-
 ## 🧰 Herramientas y tecnologías favoritas
 
+| Área                | Herramientas / Tecnologías                         |
+|---------------------|--------------------------------------------------|
+| Programación        | Python, C#, GDScript                              |
+| Motores de juego    | Unity, Godot                                     |
+| Diseño 3D           | Blender, Fusion 360                              |
+| Impresión 3D        | Cura, PrusaSlicer                                |
+| Sistemas operativos | Windows, Linux (Ubuntu, Debian)                  |
+| Automatización      | PowerShell, Bash                                 |
+| Control de versiones| Git, GitHub                                      |
 
-<div align="center">
-
-<!-- Puedes ajustar el ancho si quieres que sea más estrecha -->
-<table>
-  <thead>
-    <tr>
-      <th>Área</th>
-      <th>Herramientas / Tecnologías</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Programación</td>
-      <td>Python, C#, GDScript</td>
-    </tr>
-    <tr>
-      <td>Motores de juego</td>
-      <td>Unity, Godot</td>
-    </tr>
-    <tr>
-      <td>Diseño 3D</td>
-      <td>Blender, Fusion 360</td>
-    </tr>
-    <tr>
-      <td>Impresión 3D</td>
-      <td>Cura, PrusaSlicer</td>
-    </tr>
-    <tr>
-      <td>Sistemas operativos</td>
-      <td>Windows, Linux (Ubuntu, Debian)</td>
-    </tr>
-    <tr>
-      <td>Automatización</td>
-      <td>PowerShell, Bash</td>
-    </tr>
-    <tr>
-      <td>Control de versiones</td>
-      <td>Git, GitHub</td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
 
 <!-- ## 📫 Conecta conmigo
 
@@ -116,6 +81,7 @@ Mi objetivo es construir un portafolio sólido que refleje tanto mis habilidades
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat&logo=itch-io&logoColor=white)](https://tuusuario.itch.io)
 
--->
 
+---
 <p align="center"> 💡 "Crear, aprender y compartir: la base para crecer en tecnología y creatividad." 💡 </p>
+-->
