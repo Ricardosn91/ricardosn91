@@ -18,7 +18,7 @@ Desde siempre he sentido una gran pasión por la tecnología, la reparación de 
 
 En los últimos tiempos, he ampliado mis horizontes adentrándome en el desarrollo de videojuegos, con conocimientos en motores como **Unity (C#)** y **Godot (GDScript)**, combinando mi interés por la programación y el diseño creativo.
 
----
+
 
 ## 🎨 Impresión 3D
 
@@ -28,7 +28,7 @@ En los últimos tiempos, he ampliado mis horizontes adentrándome en el desarrol
 - Gestión de software de slicing como **Cura** y **PrusaSlicer** para preparar archivos `.gcode` eficientes.
 - Documentación y mejora continua de mis procesos de impresión para garantizar reproducibilidad.
 
----
+
 
 ## 🖥️ Informática y administración de sistemas
 
@@ -38,7 +38,7 @@ En los últimos tiempos, he ampliado mis horizontes adentrándome en el desarrol
 - Creación de scripts de automatización para tareas repetitivas y soporte técnico.
 - Uso de herramientas de control de versiones (Git) para organizar mis proyectos y colaboraciones.
 
----
+
 
 ## 🎮 Desarrollo de videojuegos
 
@@ -48,7 +48,7 @@ En los últimos tiempos, he ampliado mis horizontes adentrándome en el desarrol
 - Integración de recursos artísticos con la programación para crear experiencias jugables.
 - Uso de control de versiones para gestionar el desarrollo y evolución de mis proyectos.
 
----
+
 
 ## 🚀 Proyectos y objetivos actuales
 
@@ -60,9 +60,11 @@ Actualmente estoy organizando y preparando una serie de proyectos para compartir
 
 Mi objetivo es construir un portafolio sólido que refleje tanto mis habilidades técnicas como creativas, y que pueda servir para colaborar y crecer dentro de la comunidad tecnológica y creativa.
 
----
+
 
 ## 🧰 Herramientas y tecnologías favoritas
+
+<h1 align="center">
 
 | Área                | Herramientas / Tecnologías                         |
 |---------------------|--------------------------------------------------|
@@ -73,8 +75,7 @@ Mi objetivo es construir un portafolio sólido que refleje tanto mis habilidades
 | Sistemas operativos | Windows, Linux (Ubuntu, Debian)                  |
 | Automatización      | PowerShell, Bash                                 |
 | Control de versiones| Git, GitHub                                      |
-
----
+</h1>
 
 <!-- ## 📫 Conecta conmigo
 
@@ -83,7 +84,6 @@ Mi objetivo es construir un portafolio sólido que refleje tanto mis habilidades
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat&logo=itch-io&logoColor=white)](https://tuusuario.itch.io)
 
----
 -->
 
 <p align="center"> 💡 "Crear, aprender y compartir: la base para crecer en tecnología y creatividad." 💡 </p>
