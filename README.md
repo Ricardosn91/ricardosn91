@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Rick
+# 👋 ¡Hola! Soy TheStormRick
 
 <p align="center">
   <img src="banner.png" alt="Banner TheStormRick" />
