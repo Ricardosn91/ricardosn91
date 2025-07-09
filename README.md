@@ -8,7 +8,7 @@
 🎮 Apasionado por el desarrollo de videojuegos y la programación  
 🧠 Entusiasta del aprendizaje continuo y la creación tecnológica
 
----
+
 
 ## 🧩 Sobre mí
 
