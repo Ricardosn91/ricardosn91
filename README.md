@@ -1,5 +1,9 @@
 # 👋 ¡Hola! Soy Rick
 
+<p align="center">
+  <img src="banner.png" alt="Banner TheStormRick" />
+</p>
+
 🛠️ Técnico en sistemas, electrónica e impresión 3D  
 🎮 Apasionado por el desarrollo de videojuegos y la programación  
 🧠 Entusiasta del aprendizaje continuo y la creación tecnológica
