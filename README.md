@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy TheStormRick</h1><br/>
+<h1>👋 ¡Hola! Soy TheStormRick</h1>
 
 
 
@@ -63,9 +63,9 @@ Mi objetivo es construir un portafolio sólido que refleje tanto mis habilidades
 
 ## 🧰 Herramientas y tecnologías favoritas
 
-| Área                | Herramientas / Tecnologías                         |
+| Área                | Herramientas / Tecnologías                       |
 |---------------------|--------------------------------------------------|
-| Programación        | Python, C#, GDScript                              |
+| Programación        | Python, C#, GDScript                             |
 | Motores de juego    | Unity, Godot                                     |
 | Diseño 3D           | Blender, Fusion 360                              |
 | Impresión 3D        | Cura, PrusaSlicer                                |
